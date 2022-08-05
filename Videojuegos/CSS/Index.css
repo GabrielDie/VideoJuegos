@@ -1,0 +1,39 @@
+p{
+    color: rgb(228, 47, 47);
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: rgb(197, 145, 107);
+}
+
+#Parrafo1{
+    color: aqua;
+    background-color: rgb(31, 42, 38);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+#tit{
+    background-color: rgb(163, 160, 160);
+    color: rgb(36, 121, 93);
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: rgb(163, 160, 160);
+}
+
+ul{
+    background-color: rgb(154, 192, 192);
+    display: flex;
+    flex-direction: row;
+}
+
+ul > li{
+    margin: 30px;
+    border: 20px;
+    padding: 5px;
+}
